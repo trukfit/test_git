@@ -1,4 +1,3 @@
 <?php
-	$x = 5;
-echo $x;
+	echo date("Y-m-d H:i:s");
 ?>
