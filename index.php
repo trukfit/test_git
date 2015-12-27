@@ -10,6 +10,7 @@
       echo $sum;
    }
    mult(43, 4);
+      echo "<br>";
    function fact($x){
       if($x < 0) return false;
       if($x == 0) return 1;
