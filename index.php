@@ -1,3 +1,6 @@
 <?php
-	echo "Ð¢ÐµÐºÑƒÑ‰ÐµÐµ Ð´Ð°Ñ‚Ð° Ð¸ Ð²Ñ€ÐµÐ¼Ñ - ".date("Y-m-d H:i:s");
+	function getTime(){
+		echo "Òåêóùåå âðåìÿ è äàòà - ".date("Y-m-d H:i:s");
+	}
+	getTime();
 ?>
