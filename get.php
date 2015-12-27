@@ -8,5 +8,5 @@ getName("Fanit");
         $sum = $x + $y;
         echo $sum;
     }
-setSum(56, 8);
+setSum(56, 9);
 ?>
